@@ -9,7 +9,7 @@ export default class Student extends Component {
       studentInfo: {
         grade: '',
         email: '',
-      },
+      }
     };
   };
 
